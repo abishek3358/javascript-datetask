@@ -1,5 +1,5 @@
-JAVASCRIPT DATE TASK                                                                                                                                                      
-        In this task contain totaly three calculators.These are,
+JAVASCRIPT DATE TASK                                                                                                                                                     
+       In this task contain totaly three calculators.These are,
                 1.Days calculator
                 2.Days adding calculator
                 3.Date picker 
