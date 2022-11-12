@@ -1,4 +1,8 @@
 JAVASCRIPT DATE TASK
+
+For easy testing:
+
+Firebase deployed link is : https://javascript-date.web.app/
        
 In this task contains totaly three calculators.These are,                                                                                                         
             1.Days calculator                                                                                                                                         
